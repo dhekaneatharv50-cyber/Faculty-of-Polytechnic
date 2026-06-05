@@ -12,7 +12,7 @@ for x in s:
 
 print("Vowel count:", count)
 
-#problem
+#problem 2
 
 letters = {'a', 'b', 'c', 'd', 'e', 'f', 'g',
            'h', 'i', 'j', 'k', 'l', 'm', 'n',
