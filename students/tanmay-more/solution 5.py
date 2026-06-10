@@ -4,7 +4,7 @@ students=[]
 for x in range(n):
     name=input (f"enter the name of student {x+1}:")
     students.append(name)
-print("student")
+print("students",students)
 
 #problem no 3
 def input_students(n):
